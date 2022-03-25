@@ -21,3 +21,7 @@ The following code will record audio for 3 seconds, then play back the audio tha
 Make sure your browser is up to date.
 
 Clone the repo, then open index.html, then press action button and start talking. You will be recorded for 3 seconds, then your recording will be played back.
+
+## How To
+
+[How to record and play audio in javascript](https://medium.com/@bryanjenningz/how-to-record-and-play-audio-in-javascript-faa1b2b3e49b
